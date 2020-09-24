@@ -1,3 +1,3 @@
 # NumberTouchGame
-数字タッチゲーム
-プレイする https://0k1ta.github.io/NumberTouchGame/
+数字タッチゲーム<br>
+[プレイする](https://0k1ta.github.io/NumberTouchGame/) 
