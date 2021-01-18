@@ -90,7 +90,6 @@
       if (typeof this.timeoutId !== 'undefined') {
         clearTimeout(this.timeoutId);
       }
-
       this.currentNum = 0;
       this.board.activate();
 
