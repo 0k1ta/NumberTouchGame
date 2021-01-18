@@ -75,6 +75,7 @@
       btn.addEventListener('click', () => {
         this.start();
       });
+      
       this.setup();
     }
 
