@@ -74,8 +74,7 @@
       const btn = document.getElementById('btn');
       btn.addEventListener('click', () => {
         this.start();
-      });
-      
+      });     
       this.setup();
     }
 
